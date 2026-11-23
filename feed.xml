@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>China in Depth</title>
+    <link href="https://YOLMURIEL.github.io/china-in-depth--/feed.xml" rel="self" />
+    <link href="https://YOLMURIEL.github.io/china-in-depth--" />
+    <updated>2026-11-23T13:15:53+01:00</updated>
+    <author>
+        <name>Yolanda Muriel</name>
+    </author>
+    <id>https://YOLMURIEL.github.io/china-in-depth--</id>
+
+    <entry>
+        <title>China in Depth: Understanding China</title>
+        <author>
+            <name>Yolanda Muriel</name>
+        </author>
+        <link href="https://YOLMURIEL.github.io/china-in-depth--/china-in-depth-understanding-china/"/>
+        <id>https://YOLMURIEL.github.io/china-in-depth--/china-in-depth-understanding-china/</id>
+
+        <updated>2026-11-23T13:15:53+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Exploring Chinese language, culture, diplomacy, technology, architecture and innovation from a Chinese-Spanish perspective. Contenido Welcome to China in Depth, an independent knowledge platform dedicated to understanding China through language, translation, culture and technological innovation.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Exploring Chinese language, culture, diplomacy, technology, architecture and innovation from a Chinese-Spanish perspective.</p>
+<p><strong>Contenido</strong></p>
+<p>Welcome to China in Depth, an independent knowledge platform dedicated to understanding China through language, translation, culture and technological innovation.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
